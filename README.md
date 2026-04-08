@@ -6,7 +6,12 @@ The board features 1 USB Type-C upstream port and 8 downstream ports with 4 Type
 To use this USB Hub, simply plug the USB-C port that's on the right side to your host device. This USB Hub requires no firmware or drivers and should work by default on all operating systems.
 
 ## SCHEMATICS
+![PCB View 1](photos/P1.png)
 
 ## PCB
+![PCB View 2](photos/P2.png)
 
 ## CAD DESIGN
+![PCB View 3](photos/P3.png)
+
+![PCB View 4](photos/P4.png)
